@@ -23,7 +23,7 @@
 
  🚀 快速开始
  1. 克隆仓库
-git clone https://github.com/[你的GitHub用户名]/privacy-protection-cv.git
+git clone https://github.com/J461-ZY/privacy-protection-cv.git
 cd privacy-protection-cv  
 2. 安装依赖 
 pip install -r requirements.txt 
