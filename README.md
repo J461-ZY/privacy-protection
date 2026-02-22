@@ -39,6 +39,7 @@ python privacy_mosaic_video.py
 左侧：原图 | 右侧：隐私保护后 
 ![效果对比图](images/demo.png)
 
+
 🔮 未来展望 
 •  集成到 VR/AR 设备中，实现沉浸式交互的实时隐私保护  
 •  结合 具身智能，让机器人理解环境中的隐私规范并调整行为 
