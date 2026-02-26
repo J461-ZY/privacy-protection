@@ -35,7 +35,7 @@ python privacy_mosaic_video.py
 •  按  g  切换到高斯模糊模式  
 •  按  q  退出程序   
 
-📸 效果演示 （这里放一张效果对比图，稍后会添加） 
+📸 效果演示  
 左侧：原图 | 右侧：隐私保护后 
 ![效果对比图](https://github.com/J461-ZY/privacy-protection/raw/main/images/demo.png)
 
