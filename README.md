@@ -37,7 +37,7 @@ python privacy_mosaic_video.py
 
 📸 效果演示 （这里放一张效果对比图，稍后会添加） 
 左侧：原图 | 右侧：隐私保护后 
-![效果对比图](images/demo.png)
+![效果对比图](https://github.com/J461-ZY/privacy-protection/raw/main/images/demo.png)
 
 
 🔮 未来展望 
